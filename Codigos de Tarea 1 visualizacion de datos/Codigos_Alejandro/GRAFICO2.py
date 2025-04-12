@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar el archivo Excel
-file_path = "Fuentes de datos/datosgrafico2Alejandro.xlsx"  # Asegúrate de que esté en el mismo directorio o proporciona la ruta completa
+file_path = "Fuentes_datos/datosgrafico2Alejandro.xlsx"  # Asegúrate de que esté en el mismo directorio o proporciona la ruta completa
 df = pd.read_excel(file_path, sheet_name='Empezar la investigación')
 
 # Renombrar columnas para facilitar su uso
