@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargar datos desde Excel
-df = pd.read_excel("Fuentes_datos/datosgrafico1Alejandro.xlsx", sheet_name="Empezar la investigación")
+df = pd.read_excel("Grupo-5-Visualizaci-n-de-Datos/Fuentes_datos/datosgrafico1Alejandro.xlsx", sheet_name="Empezar la investigación")
 
 # Limpiar nombres de columnas
 df.columns = [col.strip() for col in df.columns]
