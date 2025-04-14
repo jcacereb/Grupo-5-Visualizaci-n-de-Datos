@@ -2,7 +2,7 @@
 # Fuentes de Datos para los Gráficos
 
 
-## Fuentes de datos Gráfico 1: Cantidad de usuarios en Redes Sociales
+## Fuentes de datos Gráfico 1 de Alejandro: Cantidad de usuarios en Redes Sociales
 
 Los datos para este gráfico se recopilaron de las siguientes fuentes:
 
