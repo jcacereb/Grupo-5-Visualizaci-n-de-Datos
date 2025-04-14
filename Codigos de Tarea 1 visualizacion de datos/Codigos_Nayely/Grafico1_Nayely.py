@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 
-df = pd.read_excel('Grupo-5-Visualizaci-n-de-Datos/Fuentes_datos/Datos_Grafico1_Nayely.xlsx')
+df = pd.read_excel('Fuentes_datos/Datos_Grafico1_Nayely.xlsx')
 df_long = df.melt(id_vars="Nombre de la Red Social", var_name="Continente", value_name="Usuarios (millones)")
 colores = {
     'Facebook': '#1877F2',
