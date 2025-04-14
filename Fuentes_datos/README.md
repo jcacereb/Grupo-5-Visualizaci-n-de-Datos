@@ -97,5 +97,48 @@ Los datos de ingresos para este gráfico se recopilaron de las siguientes fuente
 * [https://www.businessofapps.com/data/twitter-statistics/](https://www.businessofapps.com/data/twitter-statistics/)
 
 
+## Fuentes de datos Gráfico 1 de Juan: Tiempo promedio en redes sociales:
+* https://www.demandsage.com/facebook-statistics/ 
+
+* https://www.demandsage.com/youtube-stats/ 
+
+* https://www.demandsage.com/instagram-statistics/ 
+
+* https://www.demandsage.com/linkedin-statistics/ 
+
+* https://www.demandsage.com/whatsapp-statistics/ 
+
+* https://startupbonsai.com/wechat-statistics/ 
+
+* https://www.demandsage.com/telegram-statistics/ 
+
+* https://www.demandsage.com/twitter-statistics/ 
+
+* https://www.oberlo.com/statistics/average-time-spent-on-tiktok 
+
+* https://dataprot.net/statistics/average-time-spent-on-snapchat/ 
+
+## Fuentes de datos Gráfico 2 de Juan: Distribuición de rangos etarios en las redes sociales:
+* https://increv.co/academy/snapchat-users/ 
+
+* https://www.businessdasher.com/average-time-spent-on-social-media/ 
+
+* https://columncontent.com/linkedin-statistics/ 
+
+* https://www.demandsage.com/facebook-statistics/ 
+
+* https://www.demandsage.com/youtube-stats/ 
+
+* https://www.demandsage.com/instagram-statistics/ 
+
+* https://www.demandsage.com/linkedin-statistics/ 
+
+* https://www.demandsage.com/whatsapp-statistics/ 
+
+* https://startupbonsai.com/wechat-statistics/ 
+
+* https://www.demandsage.com/telegram-statistics/ 
+
+* https://www.demandsage.com/twitter-statistics/ 
 
 * [https://www.businessofapps.com/data/wechat-statistics/](https://www.businessofapps.com/data/wechat-statistics/)
