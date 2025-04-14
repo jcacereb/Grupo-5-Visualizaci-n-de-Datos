@@ -4,7 +4,7 @@ import squarify
 import matplotlib.colors as mcolors
 
 # Cargar archivo
-df = pd.read_excel("Grupo-5-Visualizaci-n-de-Datos/Fuentes_datos/Datos_Grafico1_Juan.xlsx")
+df = pd.read_excel("Grupo-5-Visualizaci-n-de-Datos/Fuentes_datos/Datos_Grafico2_Juan.xlsx")
 
 # Asegurar formato numérico
 df['Porcentaje'] = df['Porcentaje'].replace('%', '', regex=True).astype(float)
