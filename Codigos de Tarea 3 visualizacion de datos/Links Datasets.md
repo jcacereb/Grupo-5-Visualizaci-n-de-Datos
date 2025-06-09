@@ -1,7 +1,7 @@
 # Alejandro
 - https://trends.google.com/trends/explore?q=%2Fm%2F02y1vz&hl=es
 # Nayely
-- ttps://github.com/jcacereb/Grupo-5-Visualizaci-n-de-Datos/blob/main/Codigos%20de%20Tarea%203%20visualizacion%20de%20datos/Codigos_Nayely/datos_mapa_Nayely.xlsx
+- https://github.com/jcacereb/Grupo-5-Visualizaci-n-de-Datos/blob/main/Codigos%20de%20Tarea%203%20visualizacion%20de%20datos/Codigos_Nayely/datos_mapa_Nayely.xlsx
 - https://datareportal.com/reports/digital-2025-chile 
 - https://datareportal.com/reports/digital-2025-argentina 
 - https://datareportal.com/reports/digital-2025-brazil 
